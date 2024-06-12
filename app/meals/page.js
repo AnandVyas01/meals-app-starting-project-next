@@ -18,7 +18,7 @@ export default function MealsPage() {
           <span className={classes.highlight}>by you.</span>
         </h1>
         <p>
-          Choose your favorite meal and cook it for yourself, it's easy and fun!
+          Choose your favorite meal and cook it for yourself, it&apos;s easy and fun!
         </p>
         <p className={classes.cta}>
           <Link href="/meals/share">Share your favorite recipe</Link>
